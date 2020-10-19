@@ -1,6 +1,6 @@
 # xander-ui-dll
 
-```
+```c
 $ dotnet nuget add source https://nuget.pkg.github.com/faraaj/index.json -n github -u faraaj -p GH_TOKEN [--store-password-in-clear-text]
 // Step 2: Pack
 $ dotnet pack --configuration Release
